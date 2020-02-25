@@ -61,6 +61,10 @@ In the PDF, search for:
 `Towing Technology Group`
 `Safety Group`
 `Gooseneck Towing Prep Grp`
-`Cummins HO Turbo Diesel `
+`Cummins HO Turbo Diesel`
+`Tire Pressure Information System`
+`Crew Cab`
+`8 FT. Cargo Box`
 And maybe:
 `Heated Front Seats`
+`Mirrors-Tow Pwr Adj/Fold/Heat`
