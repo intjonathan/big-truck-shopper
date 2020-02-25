@@ -61,6 +61,7 @@ curl https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG1
 In the PDF, search for:
 
 * `Towing Technology Group`
+  * Upgraded Door Trim PanelPower Black Trailer-Tow Mirrors w/ Power Fold-AwayPower-Heated Mirrors with Power Fold-AwayCenter Stop Lamp with Cargo View CameraMirror-Mounted Auxiliary Reverse LampsGloss Black Billets with Chrome GrilleSurround-View Camera SystemBlind-Spot w/Tag Trailer & Cross-Path DetectionTrailer Reverse Guidance
 * `Safety Group`
 * `Gooseneck Towing Prep Grp`
 * `Cummins HO Turbo Diesel`
