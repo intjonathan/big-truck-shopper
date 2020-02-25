@@ -65,7 +65,8 @@ In the PDF, search for:
 `Tire Pressure Information System`
 `Crew Cab`
 `8 FT. Cargo Box`
+`Single Rear Wheel Group`
 And maybe:
 `Heated Front Seats`
 `Mirrors-Tow Pwr Adj/Fold/Heat`
-`Single Rear Wheel Group`
+
