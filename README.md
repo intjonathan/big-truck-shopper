@@ -49,3 +49,9 @@ curl 'https://www.ramtrucks.com/towingws/TowingServlet?vin=3C63R3FL5JG254992&ser
   }
 }
 ```
+
+Build sheet PDF:
+```bash
+curl https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG182869
+<returns PDF
+```
