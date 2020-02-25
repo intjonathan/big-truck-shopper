@@ -1,5 +1,7 @@
 # ram-truck-shopper
-Consume a VIN and emit the payload and build sheet 
+Consume a VIN and emit the payload and build sheet.
+
+Thanks to: https://www.ramforumz.com/threads/build-sheet-printout.248497/
 
 ```bash
 curl 'https://www.ramtrucks.com/towingws/TowingServlet?vin=3C63R3FL5JG254992&serviceType=JSON&action=TOWINGINFOBYVIN' | jq
@@ -53,5 +55,12 @@ curl 'https://www.ramtrucks.com/towingws/TowingServlet?vin=3C63R3FL5JG254992&ser
 Build sheet PDF:
 ```bash
 curl https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG182869
-<returns PDF
+<returns PDF>
 ```
+In the PDF, search for:
+`Towing Technology Group`
+`Safety Group`
+`Gooseneck Towing Prep Grp`
+`Cummins HO Turbo Diesel `
+And maybe:
+`Heated Front Seats`
