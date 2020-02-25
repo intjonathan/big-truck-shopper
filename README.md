@@ -57,16 +57,20 @@ Build sheet PDF:
 curl https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG182869
 <returns PDF>
 ```
+
 In the PDF, search for:
-`Towing Technology Group`
-`Safety Group`
-`Gooseneck Towing Prep Grp`
-`Cummins HO Turbo Diesel`
-`Tire Pressure Information System`
-`Crew Cab`
-`8 FT. Cargo Box`
-`Single Rear Wheel Group`
+
+* `Towing Technology Group`
+* `Safety Group`
+* `Gooseneck Towing Prep Grp`
+* `Cummins HO Turbo Diesel`
+* `Tire Pressure Information System`
+* `Crew Cab`
+* `8 FT. Cargo Box`
+* `Single Rear Wheel Group`
+
 And maybe:
-`Heated Front Seats`
-`Mirrors-Tow Pwr Adj/Fold/Heat`
+
+* `Heated Front Seats`
+* `Mirrors-Tow Pwr Adj/Fold/Heat`
 
