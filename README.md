@@ -1,5 +1,8 @@
-# ram-truck-shopper
-Consume a VIN and emit the payload and build sheet.
+# big-truck-shopper
+
+Consume a VIN and emit the payload and build sheet. Plan to support both Ram and Ford searches.
+
+## RAM
 
 Thanks to: https://www.ramforumz.com/threads/build-sheet-printout.248497/
 
@@ -75,3 +78,9 @@ And maybe:
 * `Heated Front Seats`
 * `Mirrors-Tow Pwr Adj/Fold/Heat`
 
+
+## Ford
+
+A Fort ETIS account is required. Sign up [here](http://www.etisorigin.ford.com/home.do).
+
+Manual steps: Visit http://www.etisorigin.ford.com/vehicleRegSelector.do, enter the VIN and expand the `Primary` and `Minor Features` boxes on the response page. 
