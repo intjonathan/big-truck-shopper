@@ -83,4 +83,4 @@ And maybe:
 
 A Fort ETIS account is required. Sign up [here](http://www.etisorigin.ford.com/home.do).
 
-Manual steps: Visit http://www.etisorigin.ford.com/vehicleRegSelector.do, enter the VIN and expand the `Primary` and `Minor Features` boxes on the response page. 
+Manual steps: Visit http://www.etisorigin.ford.com/vehicleRegSelector.do, enter the VIN and expand the `Primary` and `Minor Features` boxes on the response page. Ford does NOT emit the door-sticker load ratings that I can find, so you'll need to use the order guide (here's the [2020 Super Duty one](https://media.ford.com/content/dam/fordmedia/North%20America/US/product/2020/f-series-super-duty/2020-Super-Duty-Order-Guide.pdf)) to figure out the options and payload ratings that you might require.
