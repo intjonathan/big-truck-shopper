@@ -56,15 +56,20 @@ curl 'https://www.ramtrucks.com/towingws/TowingServlet?vin=3C63R3FL5JG254992&ser
 ```
 
 Build sheet PDF:
-```bash
-curl https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG182869
-<returns PDF>
-```
+ https://www.ramtrucks.com/webselfservice/BuildSheetServlet?vin=3C63RRHL7JG182869
 
 In the PDF, search for:
 
 * `Towing Technology Group`
-  * Upgraded Door Trim PanelPower Black Trailer-Tow Mirrors w/ Power Fold-AwayPower-Heated Mirrors with Power Fold-AwayCenter Stop Lamp with Cargo View CameraMirror-Mounted Auxiliary Reverse LampsGloss Black Billets with Chrome GrilleSurround-View Camera SystemBlind-Spot w/Tag Trailer & Cross-Path DetectionTrailer Reverse Guidance
+  * Upgraded Door Trim Panel
+  * Power Black Trailer-Tow Mirrors w/ Power Fold-Away
+  * Power-Heated Mirrors with Power Fold-Away
+  * Center Stop Lamp with Cargo View Camera
+  * Mirror-Mounted Auxiliary Reverse Lamps
+  * Gloss Black Billets with Chrome Grille
+  * Surround-View Camera System
+  * Blind-Spot w/Tag Trailer & Cross-Path Detection
+  * Trailer Reverse Guidance
 * `Safety Group`
 * `Gooseneck Towing Prep Grp`
 * `Cummins HO Turbo Diesel`
@@ -72,12 +77,13 @@ In the PDF, search for:
 * `Crew Cab`
 * `8 FT. Cargo Box`
 * `Single Rear Wheel Group`
+* `Trailer Brake Control`
+* `GVW Rating - 14000`?
 
 And maybe:
 
 * `Heated Front Seats`
 * `Mirrors-Tow Pwr Adj/Fold/Heat`
-
 
 ## Ford
 
