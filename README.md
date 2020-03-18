@@ -7,7 +7,7 @@ Consume a VIN and emit the payload and build sheet. Plan to support both Ram and
 Thanks to: https://www.ramforumz.com/threads/build-sheet-printout.248497/
 
 ```bash
-curl 'https://www.ramtrucks.com/towingws/TowingServlet?vin=3C63R3FL5JG254992&serviceType=JSON&action=TOWINGINFOBYVIN' | jq
+curl 'https://www.ramtrucks.com/towingws/TowingServlet?serviceType=JSON&action=TOWINGINFOBYVIN&vin=3C63R3FL5JG254992&' | jq
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100   840  100   840    0     0   3105      0 --:--:-- --:--:-- --:--:--  3111
